@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_description">Lets Call Recorder start recording when a phone call begins. Call Recorder does not read your screen; it only watches the call state. Recordings stay on this phone.</string>
+</resources>

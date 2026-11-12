@@ -1,0 +1,16 @@
+# Build output
+.gradle/
+.kotlin/
+build/
+app/.cxx/
+*.apk
+*.aab
+
+# Local machine
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Private working notes, device captures and third-party binaries — never published
+/research/
